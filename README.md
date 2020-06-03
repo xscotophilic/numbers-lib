@@ -3,6 +3,7 @@
 > simple test library to add and multiply numbers.
 
 [![NPM Version][npm-image]][npm-url]
+[![NPM Version][npm-image-downloads]][npm-url]
 
 ## Installation
 
@@ -28,3 +29,4 @@ const res = numbers.multiply(numberOne, numberTwo, numberThree...);
 
 [npm-image]: https://img.shields.io/npm/v/numbers-lib
 [npm-url]: https://www.npmjs.com/package/numbers-lib
+[npm-image-downloads]: https://img.shields.io/npm/dw/numbers-lib
