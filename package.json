@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "add",
+    "multiply",
+    "dynamic",
+    "numbers-lib",
+    "simple",
+    "utility",
+    "util"
+  ],
   "author": "xscotophilic",
   "license": "ISC"
 }
