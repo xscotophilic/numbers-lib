@@ -1,20 +1,32 @@
 {
   "name": "numbers-lib",
-  "version": "1.1.6",
-  "description": "",
+  "version": "1.2.0",
+  "description": "A lightweight library for basic arithmetic operations: addition, subtraction, multiplication, and division.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jest"
   },
   "keywords": [
-    "add",
-    "multiply",
-    "dynamic",
-    "numbers-lib",
-    "simple",
+    "math",
+    "arithmetic",
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "calculator",
+    "numbers",
+    "math-library",
+    "math-utils",
+    "numeric",
     "utility",
-    "util"
+    "lightweight",
+    "performance",
+    "simple-math",
+    "numbers-lib"
   ],
   "author": "xscotophilic",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
